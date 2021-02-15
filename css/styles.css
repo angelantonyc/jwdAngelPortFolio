@@ -1,0 +1,103 @@
+* {
+  background-color: #303841;
+  font-size: 1.3rem;
+}
+.insidenav {
+  background-color: #be3144;
+  color: #f0f0f0;
+}
+.links {
+  text-align: center;
+}
+#about {
+  background-color: #303841;
+  height: 1000px;
+  margin: 0px;
+}
+#aboutDesc{
+  color:black;
+}
+.name {
+  background-color: #303841;
+  color: #f0f0f0;
+  text-align: center;
+  padding-top: 500px;
+}
+.lead {
+  color: #be3144;
+  padding-top: 30px;
+}
+
+#work {
+  background-color: #45567d;
+  /* padding: 10px; */
+  /* height: 00px; */
+}
+#workDiv{
+  background-color: #45567d;
+}
+
+.deck {
+  border-color: #45567d;
+  background-color: grey;
+}
+.deck-out {
+  background-color: #45567d;
+  color: white;
+}
+.workcap {
+  text-align: center;
+  color: #f0f0f0;
+  padding-bottom: 50px;
+  padding-top: 100px;
+  background-color: #45567d;
+}
+.cardfoot {
+  background-color: #303841;
+  margin: 0px;
+}
+#skills{
+  background-color: #303841;
+  margin:auto;
+  text-align: center;
+  /* width:50%; */
+}
+#skillsHead{
+  background-color: #303841;
+  color: #f0f0f0;
+}
+#skillDiv{
+  margin:auto;
+  background-color: #303841;
+  /* width:50%; */
+}
+#contact {
+  background-color: #45567d;
+  /* height: 500px; */
+  color: #f0f0f0;
+  padding-top:20px;
+  border-bottom-style: solid;
+  border-color: red;
+}
+.cont {
+  background-color: #45567d;
+  /* padding: 200px; */
+  height: 300px;
+}
+.catchup {
+  background-color: #45567d;
+  text-align: center;
+  /* padding: 50px; */
+}
+.links {
+  background-color: #45567d;
+  padding-top: 50px;
+}
+
+.foot {
+  background-color: #303841;
+  color: #f0f0f0;
+  padding: 20px 30px;
+  margin-top: 0;
+  font-size:0.2rem;
+}
